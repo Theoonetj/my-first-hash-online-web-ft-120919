@@ -25,7 +25,7 @@ def shipping_manifest
 
 end
 
-@@ -19,6 +23,7 @@ def retrieval
+ def retrieval
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
